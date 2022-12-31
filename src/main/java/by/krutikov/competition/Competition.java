@@ -1,4 +1,4 @@
-package org.example;
+package by.krutikov.competition;
 
 import java.text.DateFormat;
 import java.text.ParseException;
